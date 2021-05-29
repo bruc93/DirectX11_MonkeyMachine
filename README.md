@@ -2,7 +2,7 @@
 Monkey machine is a project work done in DirectX11 API.
 
 ![MonkeyMachine](https://user-images.githubusercontent.com/60174179/120081514-58bc8080-c0be-11eb-985f-0e7702d1e91c.jpg)
-*Figure 1 Visual representation of what the scene looks like.*
+*Figure 1: Visual representation of what the scene looks like.*
 ## Techniques Applied
 
 --------------------------------------------------------
