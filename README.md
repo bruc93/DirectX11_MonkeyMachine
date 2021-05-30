@@ -25,6 +25,8 @@ Monkey machine is a project work done in DirectX11 API.
 
 **9. Picking using the Mouse**
 
+**10. Phong Lightning model**
+
 --------------------------------------------------------
 
 [Checkout our video!](https://www.youtube.com/watch?v=YJC9NkMLgI0)
